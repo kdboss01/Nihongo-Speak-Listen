@@ -1,0 +1,23 @@
+module.exports = [
+  { id: "greet-hello", en: "Hello", romaji: "Konnichiwa", jp: "こんにちは", cat: "Greetings" },
+  { id: "greet-good-morning", en: "Good morning", romaji: "Ohayou gozaimasu", jp: "おはようございます", cat: "Greetings" },
+  { id: "greet-good-evening", en: "Good evening", romaji: "Konbanwa", jp: "こんばんは", cat: "Greetings" },
+  { id: "greet-thank-you", en: "Thank you", romaji: "Arigatou gozaimasu", jp: "ありがとうございます", cat: "Greetings" },
+  { id: "greet-nice-to-meet-you", en: "Nice to meet you", romaji: "Hajimemashite", jp: "はじめまして", cat: "Greetings" },
+  { id: "greet-goodbye", en: "Goodbye", romaji: "Sayounara", jp: "さようなら", cat: "Greetings" },
+  { id: "phrase-yes", en: "Yes", romaji: "Hai", jp: "はい", cat: "Phrases" },
+  { id: "phrase-no", en: "No", romaji: "Iie", jp: "いいえ", cat: "Phrases" },
+  { id: "phrase-excuse-me", en: "Excuse me / Sorry", romaji: "Sumimasen", jp: "すみません", cat: "Phrases" },
+  { id: "phrase-dont-understand", en: "I don't understand", romaji: "Wakarimasen", jp: "わかりません", cat: "Phrases" },
+  { id: "phrase-one-more-time", en: "One more time, please", romaji: "Mou ichido onegaishimasu", jp: "もう一度お願いします", cat: "Phrases" },
+  { id: "phrase-im-fine", en: "I'm fine / It's okay", romaji: "Daijoubu desu", jp: "大丈夫です", cat: "Phrases" },
+  { id: "phrase-how-are-you", en: "How are you?", romaji: "Genki desu ka", jp: "元気ですか", cat: "Phrases" },
+  { id: "num-one", en: "One", romaji: "Ichi", jp: "一", cat: "Numbers" },
+  { id: "num-two", en: "Two", romaji: "Ni", jp: "二", cat: "Numbers" },
+  { id: "num-three", en: "Three", romaji: "San", jp: "三", cat: "Numbers" },
+  { id: "num-four", en: "Four", romaji: "Yon", jp: "四", cat: "Numbers" },
+  { id: "num-five", en: "Five", romaji: "Go", jp: "五", cat: "Numbers" },
+  { id: "q-what-is-this", en: "What is this?", romaji: "Kore wa nan desu ka", jp: "これは何ですか", cat: "Questions" },
+  { id: "q-bathroom", en: "Where is the bathroom?", romaji: "Toire wa doko desu ka", jp: "トイレはどこですか", cat: "Questions" },
+  { id: "q-how-much", en: "How much is it?", romaji: "Ikura desu ka", jp: "いくらですか", cat: "Questions" }
+];
